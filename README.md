@@ -100,7 +100,7 @@ El archivo de configuración `initial_parameters.json` contiene seis variables, 
     "start_date": "2023-01-01",
     "end_date": "2023-12-31",
     "seq_length": 20,
-    "month": "1", //
+    "month": "1",
     "secondary_symbols": ["GOOGL", "MSFT"]
 }
 ```
