@@ -1,0 +1,12 @@
+{
+
+    "symbol": "NVDA",
+    "start_date": "2015-01-01",
+    "end_date": "2024-08-06",
+    "seq_length": 10,
+    "month": 2,
+    "secondary_symbols":["PAGS", "ITUB", "BBDO", "BSBR", 
+                         "BDORY", "BPAC11.SA", "BPAC5.SA", "BBVA", "SAN", "C", 
+                         "MELI", "WISE.L","JPM", "BAC", "HSBC", "AAPL", "MSFT",
+                         "GOOG", "^GSPC", "^DJI", "^FTSE" ]
+    }

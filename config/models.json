@@ -1,0 +1,7 @@
+{
+    "LSTM": "create_lstm_model",
+    "GRU": "create_gru_model",
+    "Bidirectional LSTM": "create_bidirectional_lstm_model",
+    "Bidirectional GRU": "create_bidirectional_gru_model",
+    "CNN-LSTM": "create_cnn_lstm_model"
+}
